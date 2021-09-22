@@ -25,7 +25,7 @@ This project follows the [Clean architecture](https://blog.cleancoder.com/uncle-
 Run using Go
 ```sh
 make run // to start application
-make tests // to run all the tests
+make test // to run all the tests
 ```
 Run using Docker
 ```sh

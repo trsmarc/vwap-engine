@@ -4,7 +4,7 @@ APP_NAME:=vwap-engine
 run:
 	go run .
 
-tests:
+test:
 	go test -race -v ./...
 
 docker-build:
